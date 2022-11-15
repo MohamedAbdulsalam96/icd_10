@@ -179,3 +179,22 @@ user_data_fields = [
 # 	"icd_10.auth.validate"
 # ]
 
+# for reference
+fixtures = [
+        "Medical Code Standard",
+        "Medical Code",
+        
+    {"dt": "Custom Field", "filters": [
+        [
+            "dt", "in", [
+                
+            ]
+        ]
+    ]},
+    {"dt": "Property Setter", "filters": [
+        [
+            "doc_type", "in", [
+                "Medical Code",
+            ]
+        ]]
+     }]
