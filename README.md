@@ -1,2 +1,7 @@
-# ICD_10-Healthcare
-ICD_10 Healthcare Integrated with erpnext
+## ICD-10
+
+ICD-10
+
+#### License
+
+MIT
